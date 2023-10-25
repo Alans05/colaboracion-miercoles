@@ -13,4 +13,12 @@ users.append({
     apellido: 'Melano',
     email: 'Rsom',
     password: '12345'
+
+})
+
+users.append({
+    nombre: 'elva',
+    apellido: 'Ginon',
+    email: 'alans',
+    password: '1234'
 })
