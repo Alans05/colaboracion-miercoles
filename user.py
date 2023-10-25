@@ -8,3 +8,12 @@ users.append({
 })
 
 print(f'users: {users}')
+
+
+
+users.append({
+    nombre: 'elva',
+    apellido: 'Ginon',
+    email: 'alans',
+    password: '1234'
+})
