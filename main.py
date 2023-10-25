@@ -16,4 +16,4 @@ promedio = (nota1 + nota2) / 2
 if promedio >= 3.0:
     print("Gano")
 else:
-    print("Perdio") 
+    print("Perdio")
