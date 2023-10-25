@@ -9,12 +9,15 @@ users.append({
 
 print(f'users: {users}')
 users.append({
-    nombre: 'Rosa',
-    apellido: 'Melano',
-    email: 'Rsom',
-    password: '12345'
-
+    nombre: 'elba',
+    apellido: 'ginon',
+    email: 'zzzz',
+    password: '123'
 })
+
+print(f'users: {users}')
+
+
 
 users.append({
     nombre: 'elva',
